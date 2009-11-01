@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:lang="en">
+	<title>Worldwide Newton Conference</title> 
+	<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/" />
+	<link rel="self" type="application/xml" href="http://wwnc.newtontalk.net/atom.xml" />
+	<updated>2007-02-12T21:00:00Z</updated>
+	<subtitle>A sporadically annual gathering of Newton aficionados.</subtitle>
+	<id>tag:wwnc.newtontalk.net,2007://1</id>
+	<generator uri="http://www.barebones.com/products/bbedit/" version="8.2.5">BBEdit</generator>
+	<rights>Copyright (c) 2004-2007, Worldwide Newton Conference</rights>
+
+	<entry>
+		<title>Paul Guyot's WWNC Presentation on YouTube</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/resources/" />
+		<updated>2007-02-12T21:00:00Z</updated>
+		<id>tag:wwnc.newtontalk.net,2007://1.001</id>
+		<summary type="text">Thanks to Adam Tow and Sir Izaac, Paul Guyot's WWNC presentation entitled Einstein and Relativity: The Transition is now available for viewing on YouTube. For those of you who missed out on the festivities, it's well worth the wait.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/resources/">
+<![CDATA[Thanks to Adam Tow and Sir Izaac, Paul Guyot&#8217;s WWNC presentation entitled <a href="http://www.youtube.com/user/sirizaac" title="Thanks, Lewis!">Einstein and Relativity: The Transition</a> is now available for viewing on YouTube. For those of you who missed out on the festivities, it&#8217;s well worth the wait.]]></content>
+	</entry>
+
+	<entry>
+		<title>Presentations Now Available</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/resources/" />
+		<updated>2006-03-27T21:00:20Z</updated>
+		<id>tag:wwnc.newtontalk.net,2006://1.001</id>
+		<summary type="text">The majority of the presentations from the 2006 Worldwide Newton Conference program are now available in PDF format from the resources page. Additional information from the conference, as well as the remaining presentations will be posted shortly. Thank you for your patience.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/resources/">
+<![CDATA[The majority of the presentations from the 2006 Worldwide Newton Conference <a href="/program/" title="View the scheduled presentations and casual workshops.">program</a> are now available in PDF format from the <a href="/resources/" title="Press coverage, blog buzz, downloads, and more.">resources</a> page. Additional information from the conference, as well as the remaining presentations will be posted shortly. Thank you for your patience.]]></content>
+	</entry>
+
+	<entry>
+		<title>Conference Program</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/program/" />
+		<updated>2005-12-21T21:00:20Z</updated>
+		<id>tag:wwnc.newtontalk.net,2005://1.005</id>
+		<summary type="text">The conference program will include presentations by Walter Smith, James Joaquin, Paul Guyot, Larry Yaeger, Ronnie Simon, Adam Tow, Grant Hutchinson and others. Expert panel discussions, informal 'how-to' sessions, and demonstrations of the latest software developments for the Newton platform are also planned.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/program/">
+<![CDATA[The <a href="/program/">conference program</a> will include presentations by <a href="http://wsmith.best.vwh.net/">Walter Smith</a>, James Joaquin, <a href="http://www.kallisys.com/">Paul Guyot</a>, <a href="http://www.beanblossom.in.us/larryy/">Larry Yaeger</a>, Ronnie Simon, <a href="http://www.tow.com/">Adam Tow</a>, <a href="http://www.splorp.com/">Grant Hutchinson</a> and others. Expert panel discussions, informal &#8216;how-to&#8217; sessions, and demonstrations of the latest software developments for the Newton platform are also planned.]]></content>
+	</entry>
+
+	<entry>
+		<title>Conference Registration Now Open</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/registration/" />
+		<updated>2005-12-21T21:00:10Z</updated>
+		<id>tag:wwnc.newtontalk.net,2005://1.004</id>
+		<summary type="text">Why wait? Register online right now. See who else is attending.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/registration/">
+<![CDATA[<p>Why wait? <a href="/registration/">Register online</a> right now. See <a href="/registration/list/">who else is attending</a>.</p>]]></content>
+	</entry>
+
+	<entry>
+		<title>Conference Venue</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/venue/" />
+		<updated>2005-12-21T21:00:00Z</updated>
+		<id>tag:wwnc.newtontalk.net,2005://1.003</id>
+		<summary type="text">The conference will take place at the The Warwick Regis Hotel in downtown San Francisco. A discounted room rate is available for conference attendees.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/venue/">
+<![CDATA[<p>The conference will take place at the <a href="/venue/" title="View information about the conference venue.">The Warwick Regis Hotel</a> in downtown San Francisco. A discounted room rate is available for conference attendees.</p>]]></content>
+	</entry>
+
+	<entry>
+		<title>Worldwide Newton Conference 2006</title>
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/" />
+		<updated>2005-09-22T21:00:00Z</updated>
+		<id>tag:wwnc.newtontalk.net,2005://1.002</id>
+		<summary type="text">We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006...</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/">
+<![CDATA[<p>We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006. This event is presented in part by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. We hope to see you there.</p>]]></content>
+	</entry>
+
+	<entry>
+		<title>Worldwide Newton Conference 2004</title> 
+		<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/" />
+		<updated>2005-09-22T20:00:00Z</updated>
+		<id>tag:wwnc.newtontalk.net,2005://1.001</id>
+		<summary type="text">The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun...</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/">
+<![CDATA[<p>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun.</p><p>This event was presented by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>.</p><p><b>2004 Conference Program</b></p><p>Presenter listing, abstracts and slides are <a href="/program/">available here</a>.</p><p><b>2004 Conference Photographs</b></p><p>Commentary and pictures by <a href="http://www.tow.com/2004/09/08/worldwide-newton-conference-2004/">Adam Tow</a></p>]]> 
+		</content>
+	</entry>
+
+</feed>

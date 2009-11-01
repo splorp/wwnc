@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Worldwide Newton Conference</title>
+<link>http://wwnc.newtontalk.net/</link>
+<description>A sporadically annual gathering of Newton aficionados.</description>
+<dc:language>en-us</dc:language>
+<dc:creator>grant@splorp.com</dc:creator>
+<dc:date>2007-02-12T21:00:00-07:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.barebones.com/products/bbedit/" />
+<sy:updatePeriod>daily</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+
+<item>
+<title>Paul Guyot's WWNC Presentation on YouTube</title>
+<link>http://wwnc.newtontalk.net/resources/</link>
+<description>Thanks to Adam Tow and Sir Izaac, Paul Guyot's WWNC presentation entitled Einstein and Relativity: The Transition is now available for viewing on YouTube. For those of you who missed out on the festivities, it's well worth the wait.</description>
+<guid isPermaLink="false">007@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2007-02-12T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Presentations Now Available</title>
+<link>http://wwnc.newtontalk.net/resources/</link>
+<description>The majority of the presentations from the 2006 Worldwide Newton Conference program are now available in PDF format from the resources page. Additional information from the conference, as well as the remaining presentations will be posted shortly. Thank you for your patience.</description>
+<guid isPermaLink="false">006@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2006-03-27T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Conference Program</title>
+<link>http://wwnc.newtontalk.net/program/</link>
+<description>The conference program will include presentations by Walter Smith, James Joaquin, Paul Guyot, Larry Yaeger, Ronnie Simon, Adam Tow, Grant Hutchinson and others. Expert panel discussions, informal 'how-to' sessions, and demonstrations of the latest software developments for the Newton platform are also planned.</description>
+<guid isPermaLink="false">005@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2005-12-21T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Conference Registration Now Open</title>
+<link>http://wwnc.newtontalk.net/registration/</link>
+<description>Why wait? Register online right now. See who else is attending.</description>
+<guid isPermaLink="false">004@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2005-12-21T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Conference Venue</title>
+<link>http://wwnc.newtontalk.net/venue/</link>
+<description>The conference will take place at the The Warwick Regis Hotel in downtown San Francisco. A discounted room rate is available for conference attendees.</description>
+<guid isPermaLink="false">003@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2005-12-21T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Worldwide Newton Conference 2006</title>
+<link>http://wwnc.newtontalk.net/</link>
+<description>We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006...</description>
+<guid isPermaLink="false">002@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2005-09-22T21:00:00-07:00</dc:date>
+</item>
+
+<item>
+<title>Worldwide Newton Conference 2004</title>
+<link>http://wwnc.newtontalk.net/</link>
+<description>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun...</description>
+<guid isPermaLink="false">001@http://wwnc.newtontalk.net/</guid>
+<dc:subject>News</dc:subject>
+<dc:date>2005-09-22T20:00:00-07:00</dc:date>
+</item>
+
+</channel>
+</rss>
