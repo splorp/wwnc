@@ -1,0 +1,71 @@
+/*  Main style sheet for all browsers  */
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-color: #cacaca;
+	color: #555;
+	font: 12px "Lucida Grande", Arial, Verdana, sans-serif;
+	line-height: 16px;
+}
+
+p {
+	margin: 15px;
+	padding: 0;
+}
+
+h1 {
+	margin: 10px 0;
+	padding: 0;
+	font: 20px "Gill Sans", "Lucida Grande", Arial, Verdana, sans-serif;
+	color: #673;
+}
+
+a {
+	color: #673;
+}
+
+a:visited {
+	color: #673;
+}
+
+a:hover {
+	color: #000;
+}
+
+#container {
+	text-align: center;
+	margin: 0 auto;
+	width: 630px;
+	}
+
+#header {
+	padding: 0;
+	margin: 15px 0;
+	background-color: transparent;
+}
+
+#content {
+	padding: 0;
+	margin: 0;
+	background-color: #FFF;
+	border: solid 1px #673;
+	text-align: left;
+}
+
+#footer {
+	color: #666;
+	font-size: 9px;
+	font-family: "Lucida Grande", Arial, Verdana, sans-serif;
+}
+
+.chunk {
+	margin: 0 15px;
+	padding: 0;
+	border-bottom: solid 1px #CCC;
+}
+
+.chunk p {
+	margin-left: 0;
+}
