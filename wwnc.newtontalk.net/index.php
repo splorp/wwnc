@@ -24,8 +24,13 @@
 				</div>
 
 				<div class="chunk">
+				<h1>Worldwide Newton Conference 2009</h1>
+				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="http://www.wwnc2009.com/">conference site</a>.</p>
+				</div>
+
+				<div class="chunk">
 				<h1>Announcing The Worldwide Newton Conference 2007</h1>
-				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsor by the WWNC 2007 executive committee and the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.</p>
+				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.</p>
 								
 				<p>Add this event to your <a href="http://upcoming.yahoo.com/event/203492">Upcoming</a> or <a href="http://www.facebook.com/event.php?eid=2358157939">Facebook</a> profile.</p>
 
