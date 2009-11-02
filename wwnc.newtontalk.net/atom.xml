@@ -4,11 +4,27 @@
 	<link rel="alternate" type="text/html" href="http://wwnc.newtontalk.net/" />
 	<link rel="alternate" type="application/xml" href="http://wwnc.newtontalk.net/index.xml" />
 	<link rel="self" href="http://wwnc.newtontalk.net/atom.xml" />
-	<updated>2007-06-07T21:00:00Z</updated>
+	<updated>2009-07-04T21:00:00Z</updated>
 	<subtitle>A sporadically annual gathering of Newton aficionados.</subtitle>
-	<id>tag:wwnc.newtontalk.net,2007://1</id>
-	<generator uri="http://www.barebones.com/products/bbedit/" version="8.6.2">BBEdit</generator>
-	<rights>Copyright (c) 2004-2007, Worldwide Newton Conference</rights>
+	<id>tag:wwnc.newtontalk.net,2009://1</id>
+	<generator uri="http://www.barebones.com/products/bbedit/" version="9.2">BBEdit</generator>
+	<rights>Copyright (c) 2004-2009, Worldwide Newton Conference</rights>
+
+	<entry>
+		<title>Worldwide Newton Conference 2009</title>
+		<link rel="alternate" type="text/html" href="http://www.wwnc2009.com/" />
+		<updated>2009-07-04T21:00:00Z</updated>
+		<id>tag:wwnc.newtontalk.net,2009://1.001</id>
+		<summary type="text">Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the conference site.</summary>
+		<author>
+			<name>Grant Hutchinson</name>
+			<uri>http://www.splorp.com/</uri>
+			<email>grant@splorp.com</email>
+		</author>
+		<category term="news" />
+		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/">
+<![CDATA[Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="http://www.wwnc2009.com/">conference site</a>.]]></content>
+	</entry>
 
 	<entry>
 		<title>Announcing The Worldwide Newton Conference 2007</title>
@@ -23,7 +39,7 @@
 		</author>
 		<category term="news" />
 		<content type="html" xml:lang="en" xml:base="http://wwnc.newtontalk.net/">
-<![CDATA[We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsor by the WWNC 2007 executive committee and the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.]]></content>
+<![CDATA[We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.]]></content>
 	</entry>
 
 	<entry>
