@@ -14,7 +14,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<img src="/image/wwnc-header2007.jpg" alt="Worldwide Newton Conference - Tokyo, Japan - July 2007" width="630" height="180" border="0" />
+				<img src="/image/wwnc-header2009.jpg" alt="Worldwide Newton Conference - Vancouver, British Columbia - July - August 2009" width="630" height="180" border="0" />
 			</div>
 			
 			<div id="content">
@@ -103,7 +103,7 @@
 			</div>
 
 			<div id="footer">
-				<p>Copyright &#169; 2004-2007 Worldwide Newton Conference</p>
+				<p>Copyright &#169; 2004-2009 Worldwide Newton Conference</p>
 				<p>Site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
 				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a><br />
 				Site hosted by <a href="http://www.continuity.cx/">Bill Shamam</a></p>
