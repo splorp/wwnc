@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
-		<title>Worldwide Newton Conference 2007</title>
+		<title>Worldwide Newton Conference</title>
 		<link rel="icon" href="/favicon.ico" type="image/ico" />
 		<link rel="stylesheet" type="text/css" href="/includes/wwnc_001.css" media="screen" />
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="http://wwnc.newtontalk.net/index.xml" />
@@ -103,10 +103,9 @@
 			</div>
 
 			<div id="footer">
-				<p>Site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
-				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a><br />
-				Site hosted by <a href="http://www.continuity.cx/">Bill Shamam</a></p>
 				<p>Copyright &#169; 2004-2019 Worldwide Newton Conference</p>
+				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
+				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a></p>
 				<p>God bless <a href="http://www.barebones.com/products/bbedit/">BBEdit</a></p>
 				<p>Valid <a href="http://validator.w3.org/check/referer">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://feedvalidator.org/check.cgi?url=http://wwnc.newtontalk.net/index.xml">RSS</a> | <a href="http://feedvalidator.org/check.cgi?url=http://wwnc.newtontalk.net/atom.xml">Atom</a> | <a href="http://www.contentquality.com/mynewtester/cynthia.exe?url1=http://wwnc.newtontalk.net/">508</a></p>
 			</div>
