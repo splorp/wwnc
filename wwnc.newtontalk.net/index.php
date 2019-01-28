@@ -93,7 +93,7 @@
 				<p><a href="/2004/program/">2004 Conference Program</a></p>
 				<p>The program includes a list of the presenters who participated in the conference, plus abstracts and presentation slides in Acrobat PDF format.</p>
 
-				<p><a href="http://www.tow.com/2004/09/08/worldwide-newton-conference-2004/">2004 Conference Photographs</a></p>
+				<p><a href="https://web.archive.org/web/20050214214936/https://tow.com/2004/09/08/worldwide-newton-conference-2004/">2004 Conference Photographs</a></p>
 				<p>Commentary and pictures by <a href="http://www.tow.com/">Adam Tow</a> and others.</p>
 				</div>
 

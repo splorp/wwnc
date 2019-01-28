@@ -84,8 +84,8 @@
 				<div class="chunk">
 				<p><b>WWNC 2006 Photographs</b></p>
 				<ul>
-					<li>Adam Tow : <a href="http://www.tow.com/2006/01/14/wwnc-2006/">WWNC 2006 Day #1</a></li>
-					<li>Adam Tow : <a href="http://www.tow.com/2006/01/21/wwnc-2006-2/">WWNC 2006 Day #2</a></li>
+					<li>Adam Tow : <a href="https://photos.tow.com/Photojournal/2006/WWNC-2006/">WWNC 2006</a></li>
+					<li>Grant Hutchinson : <a href="http://www.flickr.com/photos/splorp/sets/72157594313485297/">WWNC Flickr Set</a></li>
 					<li>Grant Hutchinson : <a href="http://www.flickr.com/photos/splorp/sets/72157594313485297/">WWNC Flickr Set</a></li>
 				</ul>
 				</div>
@@ -104,6 +104,13 @@
 				</ul>
 				</div>
 				
+				<div class="chunk">
+				<p><b>WWNC 2004 Photographs</b></p>
+				<ul>
+					<li>Adam Tow : <a href="https://web.archive.org/web/20050214214936/https://tow.com/2004/09/08/worldwide-newton-conference-2004/">WWNC 2004</a></li>
+				</ul>
+				</div>
+
 				<!--
 				<div class="chunk">
 				<p><b>WWNC 2004 Presentations</b></p>
