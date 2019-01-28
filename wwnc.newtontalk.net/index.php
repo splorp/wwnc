@@ -25,7 +25,7 @@
 
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2009</h1>
-				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="http://www.wwnc2009.com/">conference site</a>.</p>
+				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="https://web.archive.org/web/20090704085219/http://wwnc2009.com/Home.html">conference site</a>.</p>
 				</div>
 
 				<div class="chunk">
