@@ -23,11 +23,35 @@
 				</div>
 
 				<div class="chunk">
+				<p><b>WWNC 2009 Media Coverage</b></p>
+				<ul>
+					<li>Ars Technica : <a href="https://arstechnica.com/gadgets/2008/10/annual-worldwide-newton-conference-announced-for-2009/">Annual Worldwide Newton Conference Announced for 2009</a></li>
+					<li>Newton Poetry : <a href="http://newtonpoetry.com/2008/10/14/world-wide-newton-conference-2009-is-official/">Worldwide Newton Conference 2009 is Official</a></li>
+					<li>Newton Poetry : <a href="http://newtonpoetry.com/2009/07/15/worldwide-newton-conference-updates/">Worldwide Newton Conference Updates</a></li>
+					<li>Newton Poetry : <a href="http://newtonpoetry.com/2009/08/11/observations-from-wwnc-09/">Observations from WWNC &#8217;09</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20081018154247/http://www.tuaw.com/2008/10/17/2009-world-wide-newton-conference-announced/">2009 World Wide Newton Conference Announced</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20090704132010/http://www.tuaw.com/2009/07/01/have-you-registered-for-wwnc-2009-yet/">Have you registered for WWNC 2009 yet?</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20090309005449/http://www.tuaw.com/2009/03/04/wwnc-09-official-announcements-and-the-2010-bug">WWNC &#8217;09 Official Announcements and the 2010 Bug</a></li>
+					<li>Vancouver Metblogs : <a href="http://web.archive.org/web/20081026104521/http://vancouver.metblogs.com/2008/10/22/first-vancouver-gets-an-apple-store-and-now-a-erm-newton-conference/">First Vancouver gets an Apple Store and now a &#8230; erm Newton Conference?</a></li>
+				</ul>
+				</div>
+
+				<div class="chunk">
+				<p><b>WWNC 2009 Photographs &amp; Video</b></p>
+				<ul>
+					<li>YouTube : <a href="https://www.youtube.com/watch?v=ugrt0Yjhg08">Worldwide Newton Conference 2009 &#8220;Ramp Up&#8221;</a></li>
+					<li>Jeff Hohner : <a href="http://photos.everybookinchina.com/wwnc09/WWNC%2009.html">WWNC 2009</a></li>
+				</ul>
+				</div>
+
+				<div class="chunk">
 				<p><b>WWNC 2007 Media Coverage</b></p>
 				<ul>
-					<li>The Unofficial Apple Weblog : <a href="http://www.tuaw.com/2007/06/07/2007-worldwide-newton-conference-to-be-held-in-tokyo/">2007 Worldwide Newton Conference To Be Held in Tokyo</a></li>
 					<li>PalmAddict : <a href="http://palmaddict.typepad.com/palmaddicts/2007/06/worldwide_newto.html">Worldwide Newton Conference will be held in Tokyo, Japan</a></li>
-					<li>Alternaria : <a href="http://alternaria.blogspot.com/2007/06/la-plataforma-newton-esta-viva.html">La plataforma Newton esta viva!</a></li>
+					<li>Alternaria : La plataforma Newton esta viva!</li>
+					<li>The Newted Community : <a href="http://www.newted.org/2007/06/announcing-the-worldwide-newton-conference-2007/">Announcing the Worldwide Newton Conference 2007</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20070711184630/http://www.tuaw.com/2007/06/07/2007-worldwide-newton-conference-to-be-held-in-tokyo/">2007 Worldwide Newton Conference To Be Held in Tokyo</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20070716084444/http://www.tuaw.com/2007/07/13/wwnc-2007-roundup/">WWNC 2007 Roundup</a></li>
 				</ul>
 				</div>
 
@@ -86,24 +110,35 @@
 				<ul>
 					<li>Adam Tow : <a href="https://photos.tow.com/Photojournal/2006/WWNC-2006/">WWNC 2006</a></li>
 					<li>Grant Hutchinson : <a href="http://www.flickr.com/photos/splorp/sets/72157594313485297/">WWNC Flickr Set</a></li>
-					<li>Grant Hutchinson : <a href="http://www.flickr.com/photos/splorp/sets/72157594313485297/">WWNC Flickr Set</a></li>
 				</ul>
 				</div>
 				
 				<div class="chunk">
 				<p><b>WWNC 2006 Media Coverage</b></p>
 				<ul>
-					<li>Alex Lauzon : <a href="http://www.alexlauzon.com/je-blogue/2006/bidules/worldwide-newton-conference.html">Worldwide Newton Conference</a></li>
-					<li>Applelinks : <a href="http://www.applelinks.com/p5/index.php/more/2006_worldwide_newton_conference/">2006 Worldwide Newton Conference</a></li>
-					<li>Club Newton : <a href="http://www.clubnewton.com/mt/archives/2006/01/macworldexpowwn.html">After Macworld Expo, it is WWNC</a></li>
-					<li>MacMerc : <a href="http://www.macmerc.com/news/newton/2971">Newton OS Running on Sharp Zaurus at Worldwide Newton Conference 2006</a></li>
-					<li>Macworld : <a href="http://www.macworld.com/news/2006/01/06/newton/">Stay in SF for Worldwide Newton Conference Next Week</a></li>
-					<li>Macworld Sweden : <a href="http://macworld.idg.se/ArticlePages/200601/16/20060116101552_MW/20060116101552_MW.dbp.asp">K&#246;r Newton OS p&#229; Andra Handdatorer</a></li>
-					<li>Newted Community : <a href="http://www.newted.org/news/2005/11/meet-your-peers-in-san-francisco.html">Meet Your Peers in San Francisco</a></li>
-					<li>The Unofficial Apple Weblog : <a href="http://www.tuaw.com/2006/01/13/worldwide-newton-conference-begins-today/">Worldwide Newton Conference Begins Today</a></li>
+					<li>Alex Lauzon : <a href="https://web.archive.org/web/20060216213721/http://www.alexlauzon.com/je-blogue/2006/bidules/worldwide-newton-conference.html">Worldwide Newton Conference</a></li>
+					<li>Applelinks : <a href="https://web.archive.org/web/20060517073809/http://www.applelinks.com/p5/index.php/more/2006_worldwide_newton_conference/">2006 Worldwide Newton Conference</a></li>
+					<li>Club Newton : <a href="https://web.archive.org/web/20060618005809/https://www.clubnewton.com/mt/archives/2006/01/macworldexpowwn.html">After Macworld Expo, it is WWNC</a></li>
+					<li>MacMerc : <a href="http://web.archive.org/web/20060712094535/http://www.macmerc.com/news/newton/2971">Newton OS Running on Sharp Zaurus at Worldwide Newton Conference 2006</a></li>
+					<li>Macworld : <a href="https://www.macworld.com/article/1048765/newton.html">Stay in SF for Worldwide Newton Conference Next Week</a></li>
+					<li>Macworld Sweden : <a href="https://macworld.idg.se/2.1038/1.64095">K&#246;r Newton OS p&#229; Andra Handdatorer</a></li>
+					<li>The Newted Community : <a href="http://www.newted.org/2005/11/meet-your-peers-in-san-francisco/">Meet Your Peers in San Francisco</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060218211104/http://www.tuaw.com/2005/12/01/2006-worldwide-newton-conference-announced/">2006 Worldwide Newton Conference Announced</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20061127040902/http://www.tuaw.com/2006/01/13/worldwide-newton-conference-begins-today/">Worldwide Newton Conference Begins Today</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060117074825/http://www.tuaw.com/2006/01/15/the-newton-os-on-non-apple-hardware/">The Newton OS on Non-Apple Hardware</a></li>
+					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060117074825/http://www.tuaw.com/2006/01/15/the-newton-os-on-non-apple-hardware/">The Newton OS on Non-Apple Hardware</a></li>
 				</ul>
 				</div>
 				
+				<!--
+				<div class="chunk">
+				<p><b>WWNC 2004 Press Coverage</b></p>
+				<ul>
+					<li></li>
+				</ul>
+				</div>
+				-->
+
 				<div class="chunk">
 				<p><b>WWNC 2004 Photographs</b></p>
 				<ul>
@@ -115,14 +150,7 @@
 				<div class="chunk">
 				<p><b>WWNC 2004 Presentations</b></p>
 				<ul>
-					<li>Larry Yaeger : Handwriting Recognition that Actually Works!</li>
-					<li>Adam Tow : State of the Newton</li>
-					<li>Ronnie Simon : Getting Things Done (GTD) Using the Newton</li>
-					<li>Grant Hutchinson : Creating Newton Fonts: Tools &amp; Tribulations</li>
-					<li>Paul Guyot : Einstein &amp; Relativity: The Transition</li>
-					<li>Walter Smith : A Brief History of Newton Technology</li>
-					<li>James Joaquin : A Brief History of Newton Development</li>
-					<li>Ronnie Simon : Integration with Windows XP</li>
+					<li></li>
 				</ul>
 				</div>
 				-->
