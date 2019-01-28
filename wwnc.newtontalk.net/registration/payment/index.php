@@ -26,7 +26,7 @@
 
 				<div class="chunk">
 				<p><b>Pay Via PayPal</b></p>
-				<p>PayPal payments should be made to the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> account.</p>
+				<p>PayPal payments should be made to the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> account.</p>
 				<p>paypal@worldwide-newton.asso.eu.org</p>
 				
 				<p>You may also use this handy payment button.</p>
@@ -41,7 +41,7 @@
 				<!--
 				<div class="chunk">
 				<p><b>Pay Via Wire Transfer</b></p>
-				<p>Send a wire transfer payment to the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> bank account.</p>
+				<p>Send a wire transfer payment to the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> bank account.</p>
 				<ul>
 					<li>Holder: Worldwide Newton Association</li>
 					<li>IBAN: FR80 3004 1000 0123 7499 0S02 028</li>
@@ -52,7 +52,7 @@
 				
 				<div class="chunk">
 				<p><b>Pay Via International Money Order</b></p>
-				<p>Please <a href="http://worldwide-newton.asso.eu.org/contact/">contact us</a> if you wish to use an international money order. Thank you.</p>
+				<p>Please <a href="https://web.archive.org/web/20090906112039/http://worldwide-newton.asso.eu.org/contact/">contact us</a> if you wish to use an international money order. Thank you.</p>
 				</div>
 				
 				<p><a href="/registration/">Back</a> to the registration information page.</p>

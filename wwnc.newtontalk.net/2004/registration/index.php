@@ -67,15 +67,15 @@
 </form></td>
 						</tr>
 					</table>
-					<p>These membership fees apply to physical persons, not to <a href="http://worldwide-newton.asso.eu.org/join/">companies</a>.</p>
+					<p>These membership fees apply to physical persons, not to <a href="https://web.archive.org/web/20090906112118/http://worldwide-newton.asso.eu.org/join/">companies</a>.</p>
 					
-					<p>The advantages of the Worldwide Newton Association membership are described <a href="http://worldwide-newton.asso.eu.org/join/">here</a>. Please note that the association annual general meeting will take place on Sunday, 5th, during the conference.</p>
+					<p>The advantages of the Worldwide Newton Association membership are described <a href="https://web.archive.org/web/20090906112118/http://worldwide-newton.asso.eu.org/join/">here</a>. Please note that the association annual general meeting will take place on Sunday, 5th, during the conference.</p>
 
 					<p>The participation to the conference includes coffee breaks and lunches (Saturday and Sunday).</p>
 
-					<p>Payments should be done to the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>.</p>
+					<p>Payments should be done to the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>.</p>
 
-					<p>The association's paypal account is <b>paypal@worldwide-newton.asso.eu.org</b>. Please <a href="http://worldwide-newton.asso.eu.org/contact/">contact us</a> for international money orders. You can also send a wire transfer to the association:</p>
+					<p>The association's paypal account is <b>paypal@worldwide-newton.asso.eu.org</b>. Please <a href="https://web.archive.org/web/20090906112039/http://worldwide-newton.asso.eu.org/contact/">contact us</a> for international money orders. You can also send a wire transfer to the association:</p>
 					<ul>
 						<li>Holder: Worldwide Newton Association
 						<li>IBAN: FR80 3004 1000 0123 7499 0S02 028

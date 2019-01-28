@@ -30,7 +30,7 @@
 
 				<div class="chunk">
 				<h1>Announcing The Worldwide Newton Conference 2007</h1>
-				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.</p>
+				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/">Newton Gravity</a> and <a href="http://www.kanshin.jp/newton/index.php3?mode=keyword&amp;id=48684">Newton Japan</a>.</p>
 								
 				<p>Add this event to your <a href="http://upcoming.yahoo.com/event/203492">Upcoming</a> or <a href="http://www.facebook.com/event.php?eid=2358157939">Facebook</a> profile.</p>
 
@@ -78,7 +78,7 @@
 				
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2006</h1>
-				<p>The second Worldwide Newton Conference was held in San Francisco, California, directly following Macworld Expo, January 13 - 15, 2006. This event was presented in part by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>.</p>
+				<p>The second Worldwide Newton Conference was held in San Francisco, California, directly following Macworld Expo, January 13 - 15, 2006. This event was presented in part by the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>.</p>
 
 				<p><b>Support Materials</b></p>
 				<p><a href="/2006/program/">2006 Conference Program</a></p>
@@ -87,7 +87,7 @@
 
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2004</h1>
-				<p>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun. This event was presented by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. Thanks to everyone who made this event an unqualified success.</p>
+				<p>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun. This event was presented by the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. Thanks to everyone who made this event an unqualified success.</p>
 
 				<p><b>Support Materials</b></p>
 				<p><a href="/2004/program/">2004 Conference Program</a></p>

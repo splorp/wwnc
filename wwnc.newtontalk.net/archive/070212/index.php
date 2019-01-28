@@ -34,7 +34,7 @@
 				
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2006</h1>
-				<p>We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006. This event is presented in part by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. We hope to see you there.</p>
+				<p>We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006. This event is presented in part by the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. We hope to see you there.</p>
 
 				<p><b>Conference Program</b></p>
 				<p>The <a href="/program/" title="View the scheduled presentations and casual workshops.">conference program</a> includes presentations by <a href="http://wsmith.best.vwh.net/">Walter Smith</a>, James Joaquin, <a href="http://www.kallisys.com/">Paul Guyot</a>, <a href="http://www.beanblossom.in.us/larryy/">Larry Yaeger</a>, Ronnie Simon, <a href="http://www.tow.com/">Adam Tow</a>, <a href="http://www.splorp.com/">Grant Hutchinson</a> and others. Expert panel discussions, informal &#8216;how-to&#8217; sessions, and demonstrations of the latest software developments for the Newton platform are also planned.</p>
@@ -75,7 +75,7 @@
 
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2004</h1>
-				<p>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun. This event was presented by the <a href="http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. Thanks to everyone who made this event an unqualified success.</p>
+				<p>The inaugural conference was held in Paris, September 4-5, 2004. Dozens of Newton users and aficionados gathered for lectures, sessions, chat and general fun. This event was presented by the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. Thanks to everyone who made this event an unqualified success.</p>
 
 				<p><b>Support Materials</b></p>
 
