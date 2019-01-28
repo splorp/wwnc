@@ -126,7 +126,6 @@
 					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060218211104/http://www.tuaw.com/2005/12/01/2006-worldwide-newton-conference-announced/">2006 Worldwide Newton Conference Announced</a></li>
 					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20061127040902/http://www.tuaw.com/2006/01/13/worldwide-newton-conference-begins-today/">Worldwide Newton Conference Begins Today</a></li>
 					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060117074825/http://www.tuaw.com/2006/01/15/the-newton-os-on-non-apple-hardware/">The Newton OS on Non-Apple Hardware</a></li>
-					<li>The Unofficial Apple Weblog : <a href="https://web.archive.org/web/20060117074825/http://www.tuaw.com/2006/01/15/the-newton-os-on-non-apple-hardware/">The Newton OS on Non-Apple Hardware</a></li>
 				</ul>
 				</div>
 				
