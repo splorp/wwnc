@@ -106,7 +106,7 @@
 				</div>
 
 				<div class="chunk">
-				<p><b>WWNC 2006 Photographs</b></p>
+				<p><b>WWNC 2006 Images</b></p>
 				<ul>
 					<li>Adam Tow : <a href="https://photos.tow.com/Photojournal/2006/WWNC-2006/">WWNC 2006</a></li>
 					<li>Grant Hutchinson : <a href="http://www.flickr.com/photos/splorp/sets/72157594313485297/">WWNC Flickr Set</a></li>
@@ -139,9 +139,10 @@
 				-->
 
 				<div class="chunk">
-				<p><b>WWNC 2004 Photographs</b></p>
+				<p><b>WWNC 2004 Images</b></p>
 				<ul>
 					<li>Adam Tow : <a href="https://web.archive.org/web/20050214214936/https://tow.com/2004/09/08/worldwide-newton-conference-2004/">WWNC 2004</a></li>
+					<li>Worldwide Newton Association : <a href="/resources/WWNC2004_DVD/">WWNC 2004 DVD</a></li>
 				</ul>
 				</div>
 
