@@ -14,7 +14,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<img src="/image/wwnc-header2009.jpg" alt="Worldwide Newton Conference - Vancouver, British Columbia - July - August 2009" width="630" height="180" border="0" />
+				<img src="/image/wwnc-header2020.jpg" alt="Worldwide Online Newton Conference" width="630" height="180" border="0" />
 			</div>
 			
 			<div id="content">
@@ -24,12 +24,17 @@
 				</div>
 
 				<div class="chunk">
+				<h1>Worldwide Online Newton Conference 2020</h1>
+				<p>Something WONC this ways comes. Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. More details to come.</p>
+				</div>
+
+				<div class="chunk">
 				<h1>Worldwide Newton Conference 2009</h1>
 				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="https://web.archive.org/web/20090704085219/http://wwnc2009.com/Home.html">conference site</a>.</p>
 				</div>
 
 				<div class="chunk">
-				<h1>Announcing The Worldwide Newton Conference 2007</h1>
+				<h1>Worldwide Newton Conference 2007</h1>
 				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/wwnc2007/">Newton Gravity</a> and <a href="https://web.archive.org/web/20061107232802/http://www.cyborg.ne.jp/~newtonj/">Newton Japan</a>.</p>
 								
 				<p>Add this event to your <a href="http://upcoming.yahoo.com/event/203492">Upcoming</a> or <a href="http://www.facebook.com/event.php?eid=2358157939">Facebook</a> profile.</p>
