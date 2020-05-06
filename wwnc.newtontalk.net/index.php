@@ -23,7 +23,7 @@
 
 				<div class="chunk">
 				<h1>Worldwide Online Newton Conference 2020</h1>
-				<p>Something WONC this ways comes. Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. More details to come.</p>
+				<p>Something WONC this ways comes. Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. The program will include presentations by Newton developers and enthusiasts such as Walter Smith, Matthias Melcher, Adam Tow, Paul Guyot, Jake Bordens, Cédric Sartout, Sylvain Pilet, Mark Kuberski, and Jonathan Wise. For additional information, contact <a href="mailto:contact@wwnc.online">Pawel Piotrowski</a>.
 				</div>
 
 				<div class="chunk">
@@ -106,9 +106,10 @@
 
 			<div id="footer">
 				<p>Copyright &#169; 2004-2019 Worldwide Newton Conference</p>
-				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
-				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a></p>
 				<p>God bless <a href="http://www.barebones.com/products/bbedit/">BBEdit</a></p>
+				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="https://web.archive.org/web/20160111112813/http://www.torpedobird.com/">Ben Wojtyna</a><br />
+				Site maintained by <a href="https://splorp.com/">Grant Hutchinson</a></p>
+				<p>God bless <a href="https://www.barebones.com/products/bbedit/">BBEdit</a></p>
 			</div>
 		</div>
 	</body>
