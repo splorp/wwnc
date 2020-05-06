@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 	<head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<title>Worldwide Newton Conference 2006 : Registration Status</title>
 		<link rel="icon" href="/favicon.ico" type="image/ico" />
 		<link rel="stylesheet" type="text/css" href="/includes/wwnc_001.css" media="screen" />
@@ -30,7 +30,7 @@
 		@mysql_select_db($mysql_bdd) or die("Cannot connect to database '$mysql_bdd'");
 		$table = "registration";
 
-		// V�rification que j'ai une commande.
+		// Vérification que j'ai une commande.
 		switch ($HTTP_POST_VARS['cmd'])
 		{
 			case "add":
@@ -79,7 +79,7 @@
 			break;
 			
 			case "update":
-				// V�rification du mot de passe.
+				// Vérification du mot de passe.
 				$password = ereg_replace( '"', "&quot;", $HTTP_POST_VARS["password"] );
 				$password = ereg_replace ( "<", "&lt;", $password );
 				$password = ereg_replace ( ">", "&gt;", $password );
@@ -154,12 +154,10 @@
 			</div>
 
 			<div id="footer">
-				<p>Copyright &#169; 2004-2019 Worldwide Newton Conference</p>
-				<p>Site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
-				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a><br />
-				Site hosted by <a href="http://www.continuity.cx/">Bill Shamam</a></p>
-				<p>God bless <a href="http://www.barebones.com/products/bbedit/">BBEdit</a></p>
-				<p>Valid <a href="http://validator.w3.org/check/referer">XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://feedvalidator.org/check.cgi?url=http://wwnc.newtontalk.net/index.xml">RSS</a> | <a href="http://feedvalidator.org/check.cgi?url=http://wwnc.newtontalk.net/atom.xml">Atom</a> | <a href="http://www.contentquality.com/mynewtester/cynthia.exe?url1=http://wwnc.newtontalk.net/">508</a></p>
+				<p>Copyright © 2004–2020 Worldwide Newton Conference</p>
+				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="https://web.archive.org/web/20160111112813/http://www.torpedobird.com/">Ben Wojtyna</a><br />
+				Site maintained by <a href="https://splorp.com/">Grant Hutchinson</a></p>
+				<p>God bless <a href="https://www.barebones.com/products/bbedit/">BBEdit</a></p>
 			</div>
 		</div>
 	</body>
