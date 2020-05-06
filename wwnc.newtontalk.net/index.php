@@ -22,7 +22,9 @@
 
 				<div class="chunk">
 				<h1>Worldwide Online Newton Conference 2020</h1>
-				<p>Something WONC this ways comes. Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. The program will include presentations by Newton developers and enthusiasts such as Walter Smith, Matthias Melcher, Adam Tow, Paul Guyot, Jake Bordens, Cédric Sartout, Sylvain Pilet, Mark Kuberski, and Jonathan Wise. For additional information, contact <a href="mailto:contact@wwnc.online">Pawel Piotrowski</a>.
+				<p>Something WONC this ways comes.</p>
+				<p>Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. The program will include presentations by Newton developers and enthusiasts such as Walter Smith, Matthias Melcher, Adam Tow, Paul Guyot, Jake Bordens, Cédric Sartout, Sylvain Pilet, Mark Kuberski, and Jonathan Wise.</p>
+				<p>For additional information, please contact <a href="mailto:contact@wwnc.online">Pawel Piotrowski</a>.
 				</div>
 
 				<div class="chunk">
