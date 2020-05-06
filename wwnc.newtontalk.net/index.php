@@ -1,18 +1,17 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 	<head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+		<meta charset="utf-8" />
+		<meta name="microid" content="62c75041115ee79f947f77091cf924091137201f" />
 		<title>Worldwide Newton Conference</title>
 		<link rel="icon" href="/favicon.ico" type="image/ico" />
 		<link rel="stylesheet" type="text/css" href="/includes/wwnc_001.css" media="screen" />
-		<meta name="microid" content="62c75041115ee79f947f77091cf924091137201f" />
 	</head>
 
 	<body>
 		<div id="container">
 			<div id="header">
-				<img src="/image/wwnc-header2020.jpg" alt="Worldwide Online Newton Conference" width="630" height="180" border="0" />
+				<img src="/image/wwnc-header2020.jpg" alt="Worldwide Online Newton Conference" width="630" height="180" />
 			</div>
 			
 			<div id="content">
@@ -28,12 +27,12 @@
 
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2009</h1>
-				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31 - August 2, 2009. More information can be found on the <a href="https://web.archive.org/web/20090704085219/http://wwnc2009.com/Home.html">conference site</a>.</p>
+				<p>Ryan Vetter has been busy organizing a Worldwide Newton Conference in Vancouver, BC and scheduled for July 31st - August 2nd, 2009. More information can be found on the <a href="https://web.archive.org/web/20090704085219/http://wwnc2009.com/Home.html">conference site</a>.</p>
 				</div>
 
 				<div class="chunk">
 				<h1>Worldwide Newton Conference 2007</h1>
-				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7 - 8, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year&#8217;s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/wwnc2007/">Newton Gravity</a> and <a href="https://web.archive.org/web/20061107232802/http://www.cyborg.ne.jp/~newtonj/">Newton Japan</a>.</p>
+				<p>We are pleased to announce that the next Worldwide Newton Conference will be held in Tokyo, Japan. Scheduled for July 7th and 8th, 2007, this is an event where Newton users, people interested in Newton technology and those in related fields can gather for lectures, workshops, exchange of information and casual chats. We hope that many people attend and get involved with this year’s WWNC. This event is sponsored by the WWNC 2007 executive committee and the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a> in partnership with <a href="http://newton.so-kukan.com/gravity/wwnc2007/">Newton Gravity</a> and <a href="https://web.archive.org/web/20061107232802/http://www.cyborg.ne.jp/~newtonj/">Newton Japan</a>.</p>
 								
 				<p>Add this event to your <a href="http://upcoming.yahoo.com/event/203492">Upcoming</a> or <a href="http://www.facebook.com/event.php?eid=2358157939">Facebook</a> profile.</p>
 
@@ -41,7 +40,7 @@
 				<p>The conference program is still being finalized, but will include presentations by developers such as <a href="http://www.kallisys.com/">Paul Guyot</a>, <a href="http://www.so-kukan.com/gnue/">GNUE</a>, <a href="http://www.shimoken-works.com/">Shimoken</a> and <a href="http://26inch.net/">Sai</a>. Workshop sessions are also planned.</p>
 
 				<p><b>Conference Registration</b></p>
-				<p>Currently, you can register on the <a href="http://newton.so-kukan.com/gravity/wwnc2007/">Japanese Conference Site</a>. The registration fee will be &#165;3500, which includes a 2-day passport to the conference, lunch and beverages. Detailed registration information will be available shortly.</p>
+				<p>Currently, you can register on the <a href="http://newton.so-kukan.com/gravity/wwnc2007/">Japanese Conference Site</a>. The registration fee will be ¥3500, which includes a 2-day passport to the conference, lunch and beverages. Detailed registration information will be available shortly.</p>
 
 				<p><b>Conference Venue</b></p>
 				<p>The conference will take place at the <a href="/venue/" title="View information about the conference venue.">Salon de G</a> in Tokyo.</p>
@@ -105,8 +104,7 @@
 			</div>
 
 			<div id="footer">
-				<p>Copyright &#169; 2004-2019 Worldwide Newton Conference</p>
-				<p>God bless <a href="http://www.barebones.com/products/bbedit/">BBEdit</a></p>
+				<p>Copyright © 2004–2020 Worldwide Newton Conference</p>
 				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="https://web.archive.org/web/20160111112813/http://www.torpedobird.com/">Ben Wojtyna</a><br />
 				Site maintained by <a href="https://splorp.com/">Grant Hutchinson</a></p>
 				<p>God bless <a href="https://www.barebones.com/products/bbedit/">BBEdit</a></p>
