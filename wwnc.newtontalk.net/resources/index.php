@@ -13,7 +13,7 @@
 	<body>
 		<div id="container">
 			<div id="header">
-				<a href="/"><img src="/image/wwnc-header2007.jpg" alt="Worldwide Newton Conference - Tokyo, Japan - July 2007" width="630" height="180" border="0" /></a>
+				<a href="/"><img src="/image/wwnc-header2020.jpg" alt="Worldwide Online Newton Conference" width="630" height="180" /></a>
 			</div>
 			
 			<div id="content">
@@ -22,6 +22,20 @@
 				<h1>Resources</h1>
 				</div>
 
+				<div class="chunk">
+				<p><b>WONC 2020 Media Coverage</b></p>
+				<ul>
+					<li>Cult of Mac: <a href="https://www.cultofmac.com/709173/2020-worldwide-online-newton-conference/">Newton fans (including Woz!) meet online to geek out</a></li>
+				</ul>
+				</div>
+
+				<div class="chunk">
+				<p><b>WONC 2020 Video</b></p>
+				<ul>
+					<li>YouTube: <a href="https://www.youtube.com/playlist?list=PLIrGnNAFPkjO0IpOl2FrUiQhdVHLS7BNT">Worldwide Online Newton Conference 2020</a></li>
+				</ul>
+				</div>
+				
 				<div class="chunk">
 				<p><b>WWNC 2009 Media Coverage</b></p>
 				<ul>

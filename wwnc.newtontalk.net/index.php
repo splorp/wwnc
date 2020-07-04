@@ -21,6 +21,11 @@
 				</div>
 
 				<div class="chunk">
+				<h1>WONC 2020 Presentations Available on YouTube</h1>
+				<p>Thanks to <a href="http://applenewton.co.uk/">Pawel Piotrowski</a>, presentation videos (plus a few extra goodies) from the <a href="http://wwnc.online/">Worldwide Online Newton Conference</a> are now available on <a href="https://www.youtube.com/playlist?list=PLIrGnNAFPkjO0IpOl2FrUiQhdVHLS7BNT">YouTube</a>.</p>
+				</div>
+
+				<div class="chunk">
 				<h1>Worldwide Online Newton Conference 2020</h1>
 				<p>Something WONC this ways comes.</p>
 				<p>Join us May 2nd and 3rd, 2020 for the inaugural <a href="http://wwnc.online/">Worldwide Online Newton Conference</a>. The program will include presentations by Newton developers and enthusiasts such as Walter Smith, Matthias Melcher, Adam Tow, Paul Guyot, Jake Bordens, Cédric Sartout, Sylvain Pilet, Mark Kuberski, and Jonathan Wise.</p>
