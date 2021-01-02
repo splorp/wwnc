@@ -129,7 +129,7 @@
 			</div>
 
 			<div id="footer">
-				<p>Copyright © 2004–2020 Worldwide Newton Conference</p>
+				<p>Copyright © 2004–2021 Worldwide Newton Conference</p>
 				<p>Original site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="https://web.archive.org/web/20160111112813/http://www.torpedobird.com/">Ben Wojtyna</a><br />
 				Site maintained by <a href="https://splorp.com/">Grant Hutchinson</a></p>
 				<p>God bless <a href="https://www.barebones.com/products/bbedit/">BBEdit</a></p>
