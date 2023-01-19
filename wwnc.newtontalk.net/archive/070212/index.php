@@ -2,7 +2,7 @@
         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 	<head>
-		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<title>Worldwide Newton Conference 2006</title>
 		<link rel="icon" href="/favicon.ico" type="image/ico" />
 		<link rel="stylesheet" type="text/css" href="/includes/wwnc_001.css" media="screen" />
@@ -23,8 +23,8 @@
 				</div>
 
 				<div class="chunk">
-				<h1>Paul Guyot&#8217;s WWNC Presentation on YouTube</h1>
-				<p>Thanks to Adam Tow and Sir Izaac, Paul Guyot&#8217;s WWNC presentation entitled <a href="http://www.youtube.com/user/sirizaac" title="Thanks, Lewis!">Einstein and Relativity: The Transition</a> is now available for viewing on YouTube. For those of you who missed out on the festivities, it&#8217;s well worth the wait.</p>
+				<h1>Paul Guyot’s WWNC Presentation on YouTube</h1>
+				<p>Thanks to Adam Tow and Sir Izaac, Paul Guyot’s WWNC presentation entitled <a href="http://www.youtube.com/user/sirizaac" title="Thanks, Lewis!">Einstein and Relativity: The Transition</a> is now available for viewing on YouTube. For those of you who missed out on the festivities, it’s well worth the wait.</p>
 				</div>
 
 				<div class="chunk">
@@ -37,7 +37,7 @@
 				<p>We are pleased to announce that our next conference will be held in San Francisco, California. It is scheduled directly following Macworld Expo, January 13 - 15, 2006. This event is presented in part by the <a href="https://web.archive.org/web/20090905063736/http://worldwide-newton.asso.eu.org/">Worldwide Newton Association</a>. We hope to see you there.</p>
 
 				<p><b>Conference Program</b></p>
-				<p>The <a href="/program/" title="View the scheduled presentations and casual workshops.">conference program</a> includes presentations by <a href="http://wsmith.best.vwh.net/">Walter Smith</a>, James Joaquin, <a href="http://www.kallisys.com/">Paul Guyot</a>, <a href="http://www.beanblossom.in.us/larryy/">Larry Yaeger</a>, Ronnie Simon, <a href="http://www.tow.com/">Adam Tow</a>, <a href="http://www.splorp.com/">Grant Hutchinson</a> and others. Expert panel discussions, informal &#8216;how-to&#8217; sessions, and demonstrations of the latest software developments for the Newton platform are also planned.</p>
+				<p>The <a href="/program/" title="View the scheduled presentations and casual workshops.">conference program</a> includes presentations by <a href="http://wsmith.best.vwh.net/">Walter Smith</a>, James Joaquin, <a href="http://www.kallisys.com/">Paul Guyot</a>, <a href="http://www.beanblossom.in.us/larryy/">Larry Yaeger</a>, Ronnie Simon, <a href="http://www.tow.com/">Adam Tow</a>, <a href="http://www.splorp.com/">Grant Hutchinson</a> and others. Expert panel discussions, informal ‘how-to’ sessions, and demonstrations of the latest software developments for the Newton platform are also planned.</p>
 
 				<p><b>Conference Registration</b></p>
 				<p>Why wait? <a href="/registration/">Register online</a> right now. See <a href="/registration/list/">who else is attending</a>.</p>
@@ -88,11 +88,10 @@
 
 				<p>Looking for <a href="http://newtontalk.net/">Newtontalk.net</a>?</p>
 				<p>Subscribe to a feed for this page: <a href="http://wwnc.newtontalk.net/index.xml">RSS</a> | <a href="http://wwnc.newtontalk.net/atom.xml">Atom</a></p>
-				<p>&nbsp;</p>
 			</div>
 
 			<div id="footer">
-				<p>Copyright &#169; 2004-2019 Worldwide Newton Conference</p>
+				<p>Copyright © 2004-2023 Worldwide Newton Conference</p>
 				<p>Site created by <a href="http://www.kallisys.com/">Paul Guyot</a> | <a href="http://www.thisiswhatwedo.com/">Anil K Solanki</a> | <a href="http://www.torpedobird.com/">Ben Wojtyna</a><br />
 				Site maintained by <a href="http://www.splorp.com/">Grant Hutchinson</a><br />
 				Site hosted by <a href="http://www.continuity.cx/">Bill Shamam</a></p>
